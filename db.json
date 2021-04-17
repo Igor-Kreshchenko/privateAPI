@@ -144,6 +144,24 @@
       ],
       "rating": 9,
       "id": 21
+    },
+    {
+      "title": "New Big Book",
+      "author": "Игорь Крещенко",
+      "genres": [
+        "Тест"
+      ],
+      "rating": 5,
+      "id": 22
+    },
+    {
+      "title": "Тест",
+      "author": "Игорь Крещенко",
+      "genres": [
+        "Тест"
+      ],
+      "rating": 5,
+      "id": 33
     }
   ]
 }
