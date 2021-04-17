@@ -19,4 +19,4 @@ function addBook(book) {
   return fetch(`${BASE_URL}/books`, options).then(res => res.json());
 }
 
-addBook(newBook);
+addBook(newBook).catch(console.log);
